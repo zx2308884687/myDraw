@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1" pages="2">
   <diagram name="第 1 页" id="7WZBHnggyvltZgAuaBQ9">
     <mxGraphModel dx="1426" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -319,6 +319,255 @@
             <Array as="points" />
             <mxPoint x="430" y="570" as="sourcePoint" />
             <mxPoint x="631" y="954" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yZlnJXYEL0vV901xjM2q" name="第 2 页">
+    <mxGraphModel dx="2593" dy="1435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1LT5oay-Y4ugQye11m3D-1" value="一、选择课题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="382" y="20" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-2" value="(一) 名词解释&#xa;明确QC小组及问题解决型课题定义" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="124" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-3" value="(二) 选题理由&#xa;用事实和数据说明选题目的和必要性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="276" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-4" value="二、现状调查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="382" y="428" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-5" value="(一) 查找症结&#xa;收集客观、全面、时效、可比的数据&#xa;运用分层法、排列图等统计方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="532" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-6" value="(二) 调查结论&#xa;明确现状，找出症结，确定改进方向" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="732" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-7" value="三、设定目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="382" y="884" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-8" value="(一) 目标值设定&#xa;目标与课题一致，数量不宜多，可测量、可检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="988" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-9" value="(二) 目标依据&#xa;上级要求、顾客需求、同业水平、历史水平、&#xa;症结解决程度测算等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1140" width="260" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-10" value="四、原因分析&#xa;针对症结，从人机料法环测等方面分析，&#xa;展开至末端原因，逻辑清晰" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1316" width="260" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-11" value="五、确定要因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="382" y="1492" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-12" value="(一) 要因确认一: (具体要因)&#xa;依据事实与数据逐条确认，&#xa;通过现场测量、试验或调查分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1596" width="260" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-13" value="(二) 要因确认二: (具体要因)&#xa;同上" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1620" width="259" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-14" value="(三) 要因确认三: (具体要因)&#xa;同上" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="639" y="1620" width="259" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-15" value="六、制定对策" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="382" y="1800" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-16" value="(一) 对策选定&#xa;针对主因，评价选择有效性、可实施性、&#xa;经济性、可靠性高的对策" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1904" width="260" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-17" value="(二) 制定对策表&#xa;按5W1H要求，对策明确、目标可测量、措施可操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2080" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-18" value="七、对策实施&#xa;按对策表逐条实施，及时确认效果，&#xa;未达目标时修改措施" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2232" width="260" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-19" value="八、效果检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="382" y="2408" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-20" value="(一) 实施后主要问题和&#xa;问题症结变化情况&#xa;与对策实施前对比" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="349" y="2512" width="221" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-21" value="(二) 目标值完成情况&#xa;检查课题目标是否完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2664" width="220" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-22" value="(三) 经济效益检查&#xa;计算经济效益（实得效益=创造效益-活动投入）&#xa;及社会效益，实事求是" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2792" width="260" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-23" value="九、巩固措施" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="382" y="2968" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-24" value="(一) 巩固措施&#xa;将有效措施纳入标准或制度，经审批" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="3072" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-25" value="(二) 巩固验证&#xa;跟踪措施效果，确认是否被正确执行并维持" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="3224" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-26" value="十、总结和下一步打算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="3376" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-27" value="(一) 总结&#xa;从专业技术、管理方法、小组成员素质等方面总结" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="3480" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-28" value="(二) 小组的收获与不足" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="349" y="3632" width="221" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-29" value="(三) 下一步打算&#xa;提出下一次活动方向" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="358" y="3736" width="204" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-1" target="1LT5oay-Y4ugQye11m3D-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-2" target="1LT5oay-Y4ugQye11m3D-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-3" target="1LT5oay-Y4ugQye11m3D-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-4" target="1LT5oay-Y4ugQye11m3D-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-5" target="1LT5oay-Y4ugQye11m3D-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-6" target="1LT5oay-Y4ugQye11m3D-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-7" target="1LT5oay-Y4ugQye11m3D-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-8" target="1LT5oay-Y4ugQye11m3D-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-9" target="1LT5oay-Y4ugQye11m3D-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-10" target="1LT5oay-Y4ugQye11m3D-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-11" target="1LT5oay-Y4ugQye11m3D-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="1571" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-11" target="1LT5oay-Y4ugQye11m3D-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-11" target="1LT5oay-Y4ugQye11m3D-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="769" y="1571" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-13" target="1LT5oay-Y4ugQye11m3D-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-15" target="1LT5oay-Y4ugQye11m3D-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-16" target="1LT5oay-Y4ugQye11m3D-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-17" target="1LT5oay-Y4ugQye11m3D-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-18" target="1LT5oay-Y4ugQye11m3D-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-19" target="1LT5oay-Y4ugQye11m3D-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-20" target="1LT5oay-Y4ugQye11m3D-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-21" target="1LT5oay-Y4ugQye11m3D-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-22" target="1LT5oay-Y4ugQye11m3D-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-23" target="1LT5oay-Y4ugQye11m3D-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-24" target="1LT5oay-Y4ugQye11m3D-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-25" target="1LT5oay-Y4ugQye11m3D-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-26" target="1LT5oay-Y4ugQye11m3D-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-27" target="1LT5oay-Y4ugQye11m3D-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1LT5oay-Y4ugQye11m3D-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="1LT5oay-Y4ugQye11m3D-28" target="1LT5oay-Y4ugQye11m3D-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
